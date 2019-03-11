@@ -9,3 +9,6 @@ Picture used in my notes.
 [斯坦福大学2014（吴恩达）机器学习教程中文笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 
 [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
+
+[深度学习框架PyTorch：入门与实践](https://github.com/chenyuntc/pytorch-book)
+
