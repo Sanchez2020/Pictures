@@ -4,9 +4,9 @@ Picture used in my notes.
 
 [神经网络课程](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 
-[Coursera深度学习教程中文笔记](https://github.com/fengdu78/deeplearning_ai_books)
+[深度学习](https://www.coursera.org/specializations/deep-learning)
 
-[斯坦福大学2014（吴恩达）机器学习教程中文笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+[机器学习](https://www.coursera.org/learn/machine-learning)
 
 [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
 
